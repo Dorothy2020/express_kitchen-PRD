@@ -1,4 +1,5 @@
-#  Express 
+#  Express Kitchen
+
 
 
 
@@ -28,6 +29,7 @@ Development requirements
 .Python
 .HTML/CSS
 .Bootstrap
+
 Framework
 
 **Django**
@@ -39,4 +41,24 @@ It can work with any client-side framework and can deliver content in almost any
 *PostgreSQL database*
 
 *Postgres*  is a free and open-source database management system that is extensible and SQL compliant Postgresql source code is freely available under an open-source license 
-Postgres has a filter clause that can be used to aggregate data based on certain criteria. USER FLOW AND DESIGN NOTES
+Postgres has a filter clause that can be used to aggregate data based on certain 
+
+**Criteria. USER FLOW AND DESIGN NOTES**
+UX flow and design note
+
+*System  environment requirement*
+.Hardware
+.Computer
+.Software
+.Web browser
+.Assumptions, Constraints, and Dependencies
+.Assumptions
+.Project member’s availability
+.Project member’s performance
+.Project member’s skills
+.Procurements
+.Delivery times
+.Performance issues
+ 
+
+
